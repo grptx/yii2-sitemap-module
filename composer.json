@@ -5,7 +5,8 @@
     "yii2",
     "xml",
     "sitemap",
-    "module"
+    "module",
+    "xls"
   ],
   "type": "yii2-extension",
   "license": "MIT",
