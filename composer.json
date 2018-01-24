@@ -1,25 +1,34 @@
 {
-	"name": "grptx/yii2-sitemap-module",
-	"description": "Yii2 module for automatically generation XML Sitemap",
-	"keywords": ["yii2", "xml", "sitemap", "module"],
-	"type": "yii2-extension",
-	"license": "MIT",
-	"support": {
-		"source": "https://github.com/himiklab/yii2-sitemap-module",
-        "issues": "https://github.com/himiklab/yii2-sitemap-module/issues"
-	},
-	"authors": [
-        {
-            "name": "HimikLab",
-            "homepage" : "https://github.com/himiklab"
-        }
-	],
-	"require": {
-		"yiisoft/yii2": "*"
-	},
-	"autoload": {
-		"psr-4": {
-            "himiklab\\sitemap\\": ""
-        }
-	}
+  "name": "grptx/yii2-sitemap-module",
+  "description": "Yii2 module for automatically generation XML Sitemap",
+  "keywords": [
+    "yii2",
+    "xml",
+    "sitemap",
+    "module"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/himiklab/yii2-sitemap-module",
+    "issues": "https://github.com/himiklab/yii2-sitemap-module/issues"
+  },
+  "authors": [
+    {
+      "name": "HimikLab",
+      "homepage": "https://github.com/himiklab"
+    },
+    {
+      "name": "grptx",
+      "homepage": "https://github.com/grptx"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "himiklab\\sitemap\\": ""
+    }
+  }
 }
